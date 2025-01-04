@@ -1,6 +1,4 @@
 import React, { useEffect, useState  } from "react";
-import {Link, NavLink} from 'react-router-dom'
-import { useParams } from "react-router-dom";
 import { useLoaderData } from "react-router-dom";
 
 export default function Github() {
