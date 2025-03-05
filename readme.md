@@ -1,5 +1,5 @@
 Getting Started: 
-Clone this repository: git clone https://github.com/hiteshchoudhary/chai-aur-react.git
+Clone this repository: 
 Navigate to each project folder and follow the instructions in the respective README to set up and run the project.
 
 Parallelly, watch the video lessons for a detailed walk-through.
